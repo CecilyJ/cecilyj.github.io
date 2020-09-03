@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <link href="/Users/cecilyjansen/Desktop/CodingProjects/PersonalSite/resources/css/index.css" type="text/css" rel="stylesheet">
@@ -45,4 +44,4 @@
       </table>
     </div>
   </body>
-</html>
+
